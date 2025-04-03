@@ -6,7 +6,9 @@ export default function Home() {
    <div>header</div>
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">editor and preview
     </div>
-  <div></div>
+  <div>
+    <h1></h1>
+  </div>
   </div>
   </div>
   ) ; 
