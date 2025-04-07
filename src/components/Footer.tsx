@@ -21,6 +21,7 @@ function Footer() {
             <Link href="/terms" className="text-gray-400 hover:text-gray-300 transition-colors">
               Terms 
             </Link>
+            <h1></h1>
           </div>
         </div>
       </div>
