@@ -4,7 +4,6 @@ function EditorPanel() {
   return (
     <div>
       EditorPanel
-      panel
     </div>
   )
 }
