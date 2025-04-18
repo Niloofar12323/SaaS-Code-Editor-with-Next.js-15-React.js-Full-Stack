@@ -11,6 +11,7 @@ export default function Home() {
     <EditorPanel />
     <OutputPanel />
     </div>
+    <h1>Hello</h1>
   </div>
   </div>
   ) ; 
