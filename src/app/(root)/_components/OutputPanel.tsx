@@ -5,6 +5,9 @@ function OutputPanel() {
     <div>
       OutputPanel
     </div>
+    <div>
+      
+    </div>
   )
 }
 
