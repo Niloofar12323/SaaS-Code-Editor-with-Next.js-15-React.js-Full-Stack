@@ -2,7 +2,11 @@ import { currentUser } from "@clerk/nextjs/server"
 import { ConvexHttpClient } from "convex/browser"
 import { api } from "../../../../convex/_generated/api";
 import Link from "next/link";
-import { Blocks, Code2 } from "lucide-react";
+import { Blocks, Code2, Sparkles } from "lucide-react";
+import { SignedIn } from "@clerk/nextjs";
+import ThemeSelector from "./ThemeSelector";
+import LanguageSelector from "./LanguageSelector";
+import RunButton from "./RunButton";
 
 
 async function Header() {
@@ -67,14 +71,35 @@ async function Header() {
                 </Link>
               </nav>
             </div>
-    
-           <div>
-            
-           </div>
-
             </div>
+
+             <div className="flex items-center gap-4">
+          <div className="flex items-center gap-3">
+           <ThemeSelector />
+            <LanguageSelector hasAccess={Boolean(convexUser?.isPro)} />
           </div>
-    
+          {!convexUser?.isPro && (
+            <Link
+              href="/pricing"
+              className="flex items-center gap-2 px-4 py-1.5 rounded-lg border border-amber-500/20 hover:border-amber-500/40 bg-gradient-to-r from-amber-500/10 
+                to-orange-500/10 hover:from-amber-500/20 hover:to-orange-500/20 
+                transition-all duration-300"
+            >
+              <Sparkles className="w-4 h-4 text-amber-400 hover:text-amber-300" />
+              <span className="text-sm font-medium text-amber-400/90 hover:text-amber-300">
+                Pro
+              </span>
+            </Link>
+          )}
+
+    <SignedIn>
+            <RunButton />
+          </SignedIn>
+
+
+
+          </div>
+    </div>
       );
     }
     export default Header;
