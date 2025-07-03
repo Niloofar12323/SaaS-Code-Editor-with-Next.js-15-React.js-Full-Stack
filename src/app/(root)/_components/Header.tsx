@@ -7,6 +7,7 @@ import { SignedIn } from "@clerk/nextjs";
 import ThemeSelector from "./ThemeSelector";
 import LanguageSelector from "./LanguageSelector";
 import RunButton from "./RunButton";
+import HeaderProfileBtn from "./HeaderProfileBtn ";
 
 
 async function Header() {
@@ -95,8 +96,11 @@ async function Header() {
     <SignedIn>
             <RunButton />
           </SignedIn>
+        <div className="pl-3 border-gray-800">
+          <HeaderProfileBtn />
 
-
+        </div>
+ 
 
           </div>
     </div>
