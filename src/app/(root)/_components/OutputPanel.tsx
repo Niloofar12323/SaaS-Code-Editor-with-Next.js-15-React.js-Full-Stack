@@ -8,8 +8,6 @@ function OutputPanel() {
     
   )
 }
-<div>
-  
-</div>
+
 
 export default OutputPanel
