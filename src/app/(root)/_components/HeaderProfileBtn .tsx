@@ -1,7 +1,7 @@
 
 function HeaderProfileBtn () {
   return (
-  <div>HeaderProfileBtn  pro</div>
+  <div>HeaderProfileBtn </div>
   )
 }
 
