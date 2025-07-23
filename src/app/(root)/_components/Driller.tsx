@@ -2,7 +2,11 @@ import React from 'react'
 
 export default function Driller() {
   return (
-    <div>Driller main</div>
+    <div>Driller </div>
   )
+
 }
+<div>
+    Blender
+</div>
 
