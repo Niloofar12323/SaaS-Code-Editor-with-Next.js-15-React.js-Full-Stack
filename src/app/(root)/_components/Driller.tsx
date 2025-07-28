@@ -11,7 +11,5 @@ export default function Driller() {
 <div>
   app
 </div>
-<div>
-  app
-</div>
+
 </div>
