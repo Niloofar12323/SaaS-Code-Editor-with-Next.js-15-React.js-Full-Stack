@@ -8,8 +8,5 @@ export default function Driller() {
 }
 <div>
     Blender
-<div>
-  app
-</div>
 
 </div>
