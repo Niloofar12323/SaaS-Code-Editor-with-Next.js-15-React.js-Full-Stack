@@ -10,6 +10,6 @@ export default function Driller() {
     Blender
 
 <div>
- viel  Geld vie Geld viel Geld
+ viel  Geld vie Geld 
 </div>
 </div>
