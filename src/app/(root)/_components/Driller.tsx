@@ -10,6 +10,6 @@ export default function Driller() {
     Blender
 
 <div>
- viel  Geld verdienen
+ viel  Geld verdienen  
 </div>
 </div>
