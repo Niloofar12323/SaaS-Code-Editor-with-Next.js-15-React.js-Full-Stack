@@ -10,6 +10,6 @@ export default function Driller() {
     Blender
 
 <div>
- viel 
+ viel Gld
 </div>
 </div>
