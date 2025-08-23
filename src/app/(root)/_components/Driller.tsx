@@ -13,6 +13,6 @@ export default function Driller() {
   <div>
     
   </div>
- viel Geld 
+ viel Geld  Geld
 </div>
 </div>
