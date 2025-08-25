@@ -7,12 +7,12 @@ export default function Driller() {
 
 }
 <div>
-    Blender
+    Blender 
 
 <div>
   <div>
     
   </div>
- viel Geld 
+ viel Geld  geld
 </div>
 </div>
