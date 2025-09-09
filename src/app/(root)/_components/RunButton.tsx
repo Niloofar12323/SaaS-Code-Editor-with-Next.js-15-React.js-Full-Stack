@@ -4,7 +4,7 @@ function RunButton() {
   return <div>RunButton</div>
 }
 <div>
-  Geld 
+  Geld Geld
 </div>
 
 export default RunButton
