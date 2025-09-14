@@ -5,7 +5,7 @@ function RunButton() {
 }
 <div>
   <div>
-    ArbeitgELD
+    Arbeit
   </div>
 </div>
 
