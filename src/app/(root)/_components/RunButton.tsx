@@ -5,7 +5,7 @@ function RunButton() {
 }
 <div>
   <div> 
-    Arbeit Geld  Praktikum Darmstadt Model Werden Werbung 27.Ausgewählte Menaschen Ehrenamt Spenden Spenden 
+    Arbeit Geld  Praktikum Darmstadt Model Werden Werbung 27.Ausgewählte Menaschen Ehrenamt Spenden 
   </div>
 </div>
 
