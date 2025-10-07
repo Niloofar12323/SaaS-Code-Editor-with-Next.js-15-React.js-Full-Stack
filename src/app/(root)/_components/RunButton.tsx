@@ -5,7 +5,7 @@ function RunButton() {
 }
 <div>
   <div> 
-    Arbeit Geld  Praktikum Darmstadt Model Werden Werbung Geld
+    Arbeit Geld  Praktikum Darmstadt Model Werden Werbung 
   </div>
 </div>
 
