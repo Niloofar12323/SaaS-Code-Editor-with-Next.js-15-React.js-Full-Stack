@@ -5,7 +5,7 @@ function RunButton() {
 }
 <div>
   <div> 
-    Arbeit Geld  Praktikum Darmstadt  Praktikum
+    Arbeit Geld  Praktikum Darmstadt  
   </div>
 </div>
 
