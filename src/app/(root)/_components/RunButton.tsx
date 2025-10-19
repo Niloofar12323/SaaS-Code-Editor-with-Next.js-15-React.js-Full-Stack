@@ -5,7 +5,7 @@ function RunButton() {
 }
 <div>
   <div> 
-    Arbeit Geld  Praktikum Ausbuildung 
+    Arbeit Geld  Praktikum
   </div>
 </div>
 
