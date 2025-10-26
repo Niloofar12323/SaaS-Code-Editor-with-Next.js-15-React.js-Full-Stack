@@ -5,7 +5,7 @@ function RunButton() {
 }
 <div>
   <div> 
-    Arbeit Geld Geld Geld Geld Geld Geld Arbeicomm
+    Arbeit Geld Geld Geld Geld Geld Geld Endlich Arbeite
   </div>
 </div>
 
